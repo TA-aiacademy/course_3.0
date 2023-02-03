@@ -4,8 +4,8 @@
 ## 2_Stat
 ## 3_ML
 ## 4_DNN
-## 5_CNN
+## 5_CVCNN
 ## 6_TL
-## 7_RNN
+## 7_TSRNN
 ## 8_GAN
 ## 9_NLP

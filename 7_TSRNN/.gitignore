@@ -1,6 +1,0 @@
-data
-*.h5
-*checkpoints
-checkpoints
-.ipynb*
-push.sh
