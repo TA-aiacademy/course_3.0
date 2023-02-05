@@ -7,4 +7,3 @@
 4. 🔥Control Flow[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/python/Python/Part1_Python/4_Control_Flow.ipynb)
 5. 🔥Functions[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/python/Python/Part1_Python/5_Functions.ipynb)
 6. 🔥Object Oriented Programming (OOP)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/python/Python/Part1_Python/6_Object_Oriented_Programming.ipynb)
->>>>>>> python:Python/Part1_Python/README.md
