@@ -6,8 +6,7 @@
 2. 🔥Gradient_Boosting_Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter7/gradient_boosting_example.ipynb)
 3. 🔥Xgboost_Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter7/xgboost_example.ipynb)
 ### 補充教材
-1. 🔥write_decision_tree_from_scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter7/write_decision_tree_from_scratch.ipynb)
-2. 🔥write_random_forest_from_scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter7/write_random_forest_from_scratch.ipynb)
+1. 🔥write_random_forest_from_scratch [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter7/write_random_forest_from_scratch.ipynb)
 #### Chapter8 參數選取 (Parameter Selection)
 
 1. 🔥Cross_Validation_Example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part6/Chapter8/Cross_Validation_Example.ipynb)

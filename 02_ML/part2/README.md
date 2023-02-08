@@ -17,3 +17,7 @@
 #### Chapter2 迴歸
 1. 🔥Linear Regression[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter2/Linear_Regression_Example.ipynb)
 2. 🔥Weight Regularization[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part2/Chapter2/Weight_Regularization_Example.ipynb)
+#### 練習題
+- 🔥Linear_Regression_Exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part2/Chapter2/Exercise/Linear_Regression_Exercise.ipynb)
+#### 解答
+- 🔥Linear_Regression_Exercise_ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part2/Chapter2/Exercise/Ans/Linear%20Regression%20Exercise%20Answer---Boston%20House.ipynb)
