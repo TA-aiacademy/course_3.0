@@ -7,8 +7,8 @@
 3. 🔥kmeans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part7/Chapter9/kmeans.ipynb)
 4. 🔥hierarchical_clustering_example [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/ML/02_ML/part7/Chapter9/hierarchical_clustering_example.ipynb)
 #### 練習題
-1. 🔥pca_exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/problems/pca_exercise.ipynb)
-2. 🔥kmeans_exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/problems/kmeans_exercise.ipynb)
+1. 🔥pca_exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/problems/pca_exercise.ipynb)
+2. 🔥kmeans_exercise [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/problems/kmeans_exercise.ipynb)
 #### 解答
-1. 🔥pca_exercise_ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/answers/pca_exercise_ans.ipynb)
-2. 🔥kmeans_exercise_ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/answers/kmeans_exercise_ans.ipynb)
+1. 🔥pca_exercise_ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/answers/pca_exercise_ans.ipynb)
+2. 🔥kmeans_exercise_ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part7/Chapter9/excercise/answers/kmeans_exercise_ans.ipynb)
