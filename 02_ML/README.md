@@ -2,7 +2,7 @@
 
 Course github for Machine Learning
 
-### Part 2 機器學習概論 & Linear Regression
+### Part 2 機器學習概論 & 迴歸
 ### Part 3 KNN & Logistic Regression
 ### Part 4 支持向量機 (SVM)
 ### Part 5 決策樹系列
