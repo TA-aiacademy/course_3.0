@@ -1,6 +1,6 @@
 ## Open Course Notebooks in Colab
  Titanic dataset can download form links below：
- Training set：https://github.com/TA-aiacademy/course_3.0/releases/download/Python/titanic_train.csv
+ Training set：https://github.com/TA-aiacademy/course_3.0/releases/download/Python/titanic_train.csv  
  Testing  set：https://github.com/TA-aiacademy/course_3.0/releases/download/Python/titanic_test.csv
  
 ### Part 5 Analysis_practice_case
