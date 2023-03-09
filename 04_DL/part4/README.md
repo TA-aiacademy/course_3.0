@@ -1,0 +1,7 @@
+## Open Course Notebooks in Colab
+
+### Part 4 Tensorflow for experts (optional)
+1. 🔥Custom dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/1_Custom_dataset.ipynb)
+2. 🔥Custom building [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/2_Custom_building.ipynb)
+3. 🔥Custom training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/3_Custom_training.ipynb)
+4. 🔥(PyTorch)Custom dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/4-1_(PyToch)Custom_dataset.ipynb)Custom building [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/4-2_(PyToch)Custom_building.ipynb)Custom training [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/DL/04_DL/part4/4-3_(PyToch)Custom_training.ipynb)
