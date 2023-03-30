@@ -1,4 +1,4 @@
-# 7 時間序列與遞歸神經網路
+# 7 時間序列與循環神經網路
 Course github for time series and RNN
 
 ### Part 1 傳統時間序列預測
