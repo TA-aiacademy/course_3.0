@@ -14,4 +14,3 @@
 #### 解答
 - 🔥Logistic_Regression_Exercise_Ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part3/Chapter4/Exercise/Ans/Logistic%20Regression%20Exercise%20Answer---Handwritten%20Digits.ipynb)
 - 🔥Imbalanced_Data_Prediction_Exercise_Ans [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/main/02_ML/part3/Chapter4/Exercise/Ans/Imbalanced%20Data%20Prediction%20Exercise%20Answer.ipynb)
-
