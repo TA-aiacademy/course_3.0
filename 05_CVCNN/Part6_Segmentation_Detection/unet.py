@@ -13,17 +13,13 @@ class convBlock(layers.Layer):
         super().__init__()
         kernel_size = kernel_size
         pad_size = lambda kernel_size: (kernel_size-1)//2
-        if padding == 'same':
-            self.padding = pad_size(kernel_size)
-        else:
-            self.padding = padding
 
-        self.conv_1 = layers.Conv2D(out_ch, (3, 3),
-                                    strides=(1, 1), padding='same')
+        self.conv_1 = layers.Conv2D(out_ch, (kernel_size, kernel_size),
+                                    strides=(1, 1), padding=padding)
         self.relu = layers.Activation('relu')
 
-        self.conv_2 = layers.Conv2D(out_ch, (3, 3),
-                                    strides=(1, 1), padding='same')
+        self.conv_2 = layers.Conv2D(out_ch, (kernel_size, kernel_size),
+                                    strides=(1, 1), padding=padding)
 
 #         self.INorm = tfa.layers.InstanceNormalization(axis=3,
 #                                                       center=True,
@@ -130,8 +126,3 @@ class UNet(Model):
 
         return outputs
 
-
-    
-if __name__ == '__main__':
-    if get_ipython().__class__.__name__ =='ZMQInteractiveShell':
-        os.system('jupyter nbconvert unet.ipynb --to python')
