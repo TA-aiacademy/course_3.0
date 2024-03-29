@@ -1,0 +1,4 @@
+## Open Course Notebooks in Colab
+### Part 1
+1. 🔥Preprocess [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/v2-5_nlp/09_v2-5_NLP/Part1/01-1_preprocess.ipynb) Answer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/v2-5_nlp/09_v2-5_NLP/Part1/01-2_preprocess_ans.ipynb)
+2. 🔥Feature_engineering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/v2-5_nlp/09_v2-5_NLP/Part1/02-1_feature_engineering.ipynb) Answer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TA-aiacademy/course_3.0/blob/v2-5_nlp/09_v2-5_NLP/Part1/02-2_feature_engineering_ans.ipynb)
